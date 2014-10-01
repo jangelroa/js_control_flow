@@ -1,3 +1,4 @@
+
 var calculateExponent = function (base, exponent) {
 	var result = base;
 	for(var i = 1 ; i < exponent ; i++) {
